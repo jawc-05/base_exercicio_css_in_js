@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 
-export const Container = styled.ul`
+export const VagasContainer = styled.ul`
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   column-gap: 16px;
